@@ -6,13 +6,14 @@ This is a simple ecommerce landing page created using HTML and CSS. The page sho
 
 ## Developer
 
-This project was developed by [Your Name](https://github.com/carpejemme).
+This project was developed by [Jem Laguda](https://github.com/carpejemm).
+Full Stack Developer at UNAWA Inc.
 
 ## Workshop Details
 
 - **Date:** August 17, 2023
 - **Time:** 6:00 PM - 8:00 PM
-- **THIS IS FREE WORKSHOP BY UPLIFT CODE CAMP**
+- **THIS IS A FREE WORKSHOP BY UPLIFT CODE CAMP**
 
 ## Features
 
@@ -31,7 +32,7 @@ This project was developed by [Your Name](https://github.com/carpejemme).
 
 1. Clone this repository: `git clone https://github.com/carpejemm/tsinelas-chic.git`
 2. Open the project folder in your preferred code editor.
-3. Open `index.html` in your browser to see the landing page. or Open use `Live Server` extension by clicking `Go Live` in the lower right of your VS Code.
+3. Open `index.html` in your browser to see the landing page or open using `Live Server` extension by clicking `Go Live` in the lower right of your VS Code.
 
 ## Usage
 
